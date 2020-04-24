@@ -1,0 +1,21 @@
+.contact_section {
+	background: url('../Img/footer_bg_2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 80px 0;
+	color : #fff;
+}
+.contact_section p {
+	letter-spacing: 1.2px;
+	font-size: 20px;
+
+}
+.contact_submit_btn {
+	border-radius: 22px;
+	background : #ee3b00;
+	border-color: #ee3b00;
+	padding: 10px 40px;
+	color: #fff;
+
+}

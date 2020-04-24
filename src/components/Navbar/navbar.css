@@ -1,0 +1,12 @@
+.navbar-collapse ul li {
+	margin : 0 10px;
+	padding: 10px 0;
+}
+.navbar-collapse .nav-item .nav-link {
+	padding-top: 8px;
+}
+.navbar_btn {
+	border-radius: 22px;
+	background : #ee3b00;
+	color: #fff;
+}

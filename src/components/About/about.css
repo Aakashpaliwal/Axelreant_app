@@ -1,0 +1,35 @@
+.about_bg {
+	background : url('../Img/aboutbg.png');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 8% 0;
+}
+.about_service_img_div {
+	border: solid 1px #e1e1e1;
+	padding: 80px 0px;
+	margin : 20px 0;
+}
+.about_service_img_div p {
+	color: #fff;
+}
+.about_service_img_div_technical {
+	padding: 58px 0px;	
+}
+.about_service_img_div_technical p {
+	position: relative;
+	top: -25px;
+}
+.about_header h3{
+	color: #fff;
+	margin-bottom: 40px;
+}
+.about_details_section {
+	margin : 80px 0;
+}
+.about_details_data {
+	margin-top: 50px;	
+}
+.about_map img{
+	width: 100%;
+}

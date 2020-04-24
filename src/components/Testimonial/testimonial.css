@@ -1,0 +1,30 @@
+.testtimonial_section {
+	background : #f7f7f7;
+	padding: 80px 0;
+}
+.testimonial_master_area {
+	margin: 20px 0;
+}
+.testimonial_square {
+	background : #fff;
+	padding: 20px 50px;
+	border-radius: 15px;
+	box-shadow: 2px 4px 2px #e1e1e1
+}
+  #triangle-down {
+      width: 0;
+      height: 0;
+      border-left: 20px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 20px solid #fff;
+    position: relative;
+    left: 50px;    }
+    .testimmonial_client  {
+    	margin-left: 5px;
+    	color: #bcafab;
+    	margin-top: 10px;
+    }
+    .fa-quote-left {
+    	margin-right: 5px;
+    	color: #ee3b00;
+    }
